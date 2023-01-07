@@ -1,5 +1,9 @@
 # ∞ Omnifood
 
+## Deployment
+
+Deployed Website: https://forkify-stergios.netlify.app/
+
 ## About The Project
 
 [![Project screenshot]](/src/img/forkify.PNG)
