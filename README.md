@@ -1,4 +1,4 @@
-# ∞ Omnifood
+# ∞ Forkify
 
 ## Deployment
 
