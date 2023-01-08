@@ -12,7 +12,7 @@ Deployed Website: https://forkify-stergios.netlify.app/
 Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data. This app uses modern JavaScript tools, such as Parcel to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can search for a specific recipe, and save to a favorites list via local storage. The user can easily increase or decrease
 servings as per his need and can view detailed directions.
 
-## Build With
+## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [SCSS](https://sass-lang.com/)
