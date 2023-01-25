@@ -4,7 +4,7 @@ A recipe search application made with JavaScript.
 
 ## Deployment
 
-Deployed Website: https://forkify-stergios.netlify.app/
+Deployed Website: https://forkify-stergios.netlify.app
 
 ## About The Project
 
