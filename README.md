@@ -1,5 +1,6 @@
 # ∞ Forkify
-A recipe search application made with javascript.
+
+A recipe search application made with JavaScript.
 
 ## Deployment
 
