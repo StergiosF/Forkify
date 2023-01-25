@@ -7,8 +7,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Jonas Schedtmann",
-  "license": "ISC",
+  "author": "Stergios Fotoglou",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0",
     "parcel": "^2.8.0",
