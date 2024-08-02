@@ -27,14 +27,6 @@ To get started with project just simply fork this repo or download locally on yo
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-Start with the latest version of NPM to avoid any errors:
-
-```sh
-npm install npm@latest -g
-```
-
 ### Installation
 
 1. Get a free API Key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
@@ -48,13 +40,18 @@ git clone https://github.com/StergiosFotoglou/Forkify.git
 3. Install NPM packages
 
 ```sh
-npm install
+npm install npm@latest -g
 ```
 
 4. Enter your API key in `config.js`
 
 ```JS
 const KEY = 'ENTER YOUR API KEY';
+```
+
+5. Start a local server for the project
+```sh
+npm start
 ```
 
 ## Usage
